@@ -16,5 +16,5 @@ Track Book also offers an automatic deposit handling feature through smart contr
 Track Book utilizes a QR code-based reservation verification method. The users generate a QR code based on their hashed information and the reservation ID received from the server and present it to the business owner. The business owner can scan this QR code to verify the reservation information and receive the deposit through the smart contract. This method is fast and convenient while protecting the user's personal information and reducing the risk of reservation no-shows for the business owner.
 
 In this way, Track Book strives to enhance the transparency of the reservation system, protect users' personal information, and improve the overall user experience using blockchain technology. Our goal is to simplify the reservation and payment process and build trust between business owners and customers. Through this, Track Book can overcome the shortcomings of traditional centralized reservation systems and provide a safer and more convenient reservation experience for users.
-![image](https://github.com/Smart-Reservation/.github/assets/127087166/a2800ca7-d783-45a6-8a6c-497d28f83494)
+)
 
