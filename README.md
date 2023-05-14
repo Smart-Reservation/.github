@@ -1,12 +1,12 @@
 # .github
 Web3 Smart Reservation Service
 
-#Project Name: Track Book
+Project Name: Track Book
 Track Book is a decentralized application based on Ethereum that facilitates transparent and secure reservations and deposit handling between customers and business owners.
 
-#Main Objective: To enable customers and business owners to manage reservations directly without the intervention of a central server, particularly providing transparency in transactions and enhancing security. The aim is to overcome the complexity and inefficiency of traditional Web 2.0 reservation systems, protect users' personal information, and simplify the reservation and payment process.
+Main Objective: To enable customers and business owners to manage reservations directly without the intervention of a central server, particularly providing transparency in transactions and enhancing security. The aim is to overcome the complexity and inefficiency of traditional Web 2.0 reservation systems, protect users' personal information, and simplify the reservation and payment process.
 
-#Project Description:
+Project Description:
 Track Book is a decentralized application based on Ethereum blockchain, aiding customers and business owners in managing reservations and securely handling deposits. Users sign up using only MetaMask or Binance wallets, and this information is hashed and recorded on the blockchain to verify the user's identity. This approach reduces the risk of personal data leaks and complicated identity verification procedures that can occur in traditional Web 2.0 reservation systems.
 
 Our smart contract only records transactions related to deposits on the chain, effectively managing issues such as gas fees and processing speed while ensuring transparency. Other details, such as reservation specifics, are managed on the server to enhance efficiency and user experience.
